@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm David  
 
-<!--
-**Dav1d-codes/Dav1d-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science graduate, currently pursuing a Master’s in **Cybersecurity** at Ovidius University of Constanța.  
+🔐 Passionate about **web application security, SQL injection prevention, and security automation**.  
+💻 Sharing projects in **Python, Java, SQL**, and security-related research.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- **Programming:** Python, Java, C, C#, SQL  
+- **Databases:** MySQL, Oracle SQL, Microsoft Access  
+- **Cybersecurity:** SQLi prevention, WAFs, phishing detection, networking basics  
+- **Tools:** Git, Docker, VS Code  
+- **OS:** Windows, Linux  
+
+---
+
+## 📂 Featured Projects
+- 🛡️ **[SQL Injection Prevention Demo](#)** – Vulnerable web app with WAF rules and logging system  
+- 📧 **[Phishing Detection Script](#)** – Python script to analyze and block phishing attempts  
+- 🌐 **[Networking Lab Work](#)** – Simulated router/server topologies in Mininet for security testing  
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/sandu-david-victor-63173627b/)  
+- [GitHub](https://github.com/Cakelov3r)  
+- 📧 Email: sandudavidvictor@gmail.com  
+
+---
+
+⭐️ Always learning, always building in **Cybersecurity**.
