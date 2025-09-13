@@ -15,10 +15,10 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Some Personal Projects
 - 🛡️ **[SQL Injection Prevention Demo](#)** – Vulnerable web app with WAF rules and logging system  
-- 📧 **[Phishing Detection Script](#)** – Python script to analyze and block phishing attempts  
-- 🌐 **[Networking Lab Work](#)** – Simulated router/server topologies in Mininet for security testing  
+- 📧 **[Personal Security Lab](#)** – Custom home lab with Kali Linux and DVWA to practice pentesting and vulnerability analysis  
+- 🌐 **[Networking Lab Work with Mininet](#)** – Simulated router/server topologies in Mininet for security testing  
 
 ---
 
